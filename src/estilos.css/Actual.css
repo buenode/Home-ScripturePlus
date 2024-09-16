@@ -1,0 +1,61 @@
+.contenedorrPrincipal{
+    display: flex;
+    flex-direction: column;
+    width: 1100px;
+    margin-left: 90px;
+    
+}
+.actualizaciones5{
+    margin-left: 90px;
+    color:rgb(58, 57, 57);
+    font-family: "Open Sans", Arial, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 1;
+    font-size: 36px;
+}
+.cont{
+    display: flex;
+    justify-content: space-between;
+    /* background: red; */
+    padding: 5px;
+    font-size: 19px;
+}
+.parrafoDeactual{
+    font-size: 19px;
+   font-family: "Open Sans", Arial, sans-serif;
+   line-height: 28.8px;
+   letter-spacing: 0.30px;
+}
+.bbuussccaaddoorr{
+    display: flex;
+    justify-content: space-between;
+   height: 50px;
+   
+   align-items: center;
+  margin-top: 10px;
+  border-style: solid;
+  padding: 10px;
+  border-color: rgb(242, 238, 238);
+  background: rgb(246, 243, 243);
+   
+}
+.ticket{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: rgb(84, 84, 202);
+    border-radius: 8px;
+    width: 850px;
+    height: 55px;
+}
+.ticketParrafo{
+    font-size: 20px;
+    font-family: "Open Sans", Arial, sans-serif;
+    margin-top: 20px;
+    line-height: 28.8;
+}
+.carateristica{
+    font-size: 25px;
+    margin-top: 20px;
+}

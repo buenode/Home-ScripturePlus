@@ -1,0 +1,26 @@
+.soporte{
+    margin-left: 100px; 
+    color: rgb(63, 60, 60)   
+}
+.tituloo{
+    margin-left: 100px;
+    font-size: 36px;
+    color: rgb(63, 60, 60)
+
+}
+.select{
+    border-color: rgb(147, 147, 204);
+    width: 900px;
+    height: 40px;
+    margin-left: 100px;
+    box-shadow: -6px 4px 3px -2px rgb(147, 147, 204);
+-webkit-box-shadow: -6px 4px 3px -2px rgb(147, 147, 204);
+-moz-box-shadow: -6px 4px 3px -2px rgb(147, 147, 204);
+
+
+}
+.subtitulo{
+    color: rgb(63, 60, 60);
+    font-size: 20px;
+    margin-left: 100px;
+}

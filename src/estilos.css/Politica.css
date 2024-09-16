@@ -1,0 +1,43 @@
+.containerSe{
+    margin-left: 100px;
+    width: 900px;
+}
+
+.titulos{
+    
+    font-size: 44px;
+}
+.titulos2{
+    font-size: 32px;
+}
+.titulos3{
+    font-size: 18px;
+
+}
+.titulos4{
+    font-size: 25px;
+}
+li{
+    font-size: 18px;
+    line-height: 1.7;
+}
+.contenedorTer{
+    display: flex;
+    justify-content: space-between;
+    /* background: red; */
+    width: 1200px;
+    
+}
+.contenedorInput2{
+    display: flex;
+    border-style: solid;
+    border-color:  rgb(236, 234, 239);
+    background: rgb(246, 244, 244);
+    height: 80px;
+    width: 250px;
+}
+.input2{
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+}
